@@ -1,1 +1,2 @@
 print('Введите')
+print('HELO')
