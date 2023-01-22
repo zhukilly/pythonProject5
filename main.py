@@ -1,2 +1,0 @@
-print('Введите')
-print('HELO')
